@@ -4,10 +4,8 @@ from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
 import pandas as pd
 import io
 import matplotlib
-
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-
 app = Flask(__name__)
 
 
