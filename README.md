@@ -1,6 +1,6 @@
 # Patient Outcome Prediction (Breast Cancer Survival Analysis)
 
-A **Flask-based Machine Learning web application** that predicts **breast cancer patient outcomes** — whether a patient is likely to survive or not — and estimates **survival months** using a **Random Forest model** trained on clinical data.
+A **Flask-based Machine Learning web application** that predicts **breast cancer patient outcomes** - whether a patient is likely to survive or not - and estimates **survival months** using a **Random Forest model** trained on clinical data.
 
 This project combines **data preprocessing**, **ML model training**, and a **web-based visualization** to assist in healthcare data-driven decisions.
 
